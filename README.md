@@ -1,5 +1,6 @@
 # EthereumSmartContract
-Simple Contract involving Ethereum Blockchain
+
+This project implements a simple Contract involving Ethereum blockchain.
 
 # Introduction
 
